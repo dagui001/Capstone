@@ -1,0 +1,266 @@
+[
+  {
+    "Room_Name": "Procedure Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "1", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 226.37622860350771
+  }, 
+  {
+    "Room_Name": "Office", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "2", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 261.20334069634936
+  }, 
+  {
+    "Room_Name": "Nurse Station", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "3", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 304.73723081241803
+  }, 
+  {
+    "Room_Name": "Reception", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "4", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 322.15078685883356
+  }, 
+  {
+    "Room_Name": "Lobby", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "5", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 515.46365267692374
+  }, 
+  {
+    "Room_Name": "Exam Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "6", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 524.78634732307944
+  }, 
+  {
+    "Room_Name": "Electrical Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "7", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 247.75343732685633
+  }, 
+  {
+    "Room_Name": "Mechanical Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "8", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 230.66699337327435
+  }, 
+  {
+    "Room_Name": "Storage", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "9", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 316.09921314116275
+  }, 
+  {
+    "Room_Name": "Garage", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "10", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 299.01276918758015
+  }, 
+  {
+    "Room_Name": "Equipment Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "11", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 672.09479569447433
+  }, 
+  {
+    "Room_Name": "Elevator Lobby", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "12", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 660.15520430554056
+  }, 
+  {
+    "Room_Name": "Fire Pump Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "13", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 123.95833333333621
+  }, 
+  {
+    "Room_Name": "Generator Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "14", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 173.54166666667138
+  }, 
+  {
+    "Room_Name": "MRI Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "15", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 104.12500000000156
+  }, 
+  {
+    "Room_Name": "Control Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "16", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 189.27390253963253
+  }, 
+  {
+    "Room_Name": "Operating Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "17", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 167.72609746036849
+  }, 
+  {
+    "Room_Name": "Conference Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "18", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 149.88194444444608
+  }, 
+  {
+    "Room_Name": "Break Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "19", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 174.20833333333545
+  }, 
+  {
+    "Room_Name": "Operating Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "20", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 197.75000000000173
+  }, 
+  {
+    "Room_Name": "Generator Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "21", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 155.37500000000071
+  }, 
+  {
+    "Room_Name": "Control Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "22", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 183.62499999999801
+  }, 
+  {
+    "Room_Name": "Bathroom", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "23", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 172.79861111111478
+  }, 
+  {
+    "Room_Name": "Locker Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "24", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 229.62500000000239
+  }, 
+  {
+    "Room_Name": "Gym", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "25", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 382.70833333333849
+  }, 
+  {
+    "Room_Name": "Nuc Med Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "26", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 334.00000000000233
+  }, 
+  {
+    "Room_Name": "Spect CT Room", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "27", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 271.37500000000057
+  }, 
+  {
+    "Room_Name": "Elevator Lobby", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "28", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 513.21527777777965
+  }, 
+  {
+    "Room_Name": "Kitchen", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "29", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 690.79166666667084
+  }, 
+  {
+    "Room_Name": "Storage", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "30", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 386.37500000000051
+  }, 
+  {
+    "Room_Name": "Office", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "31", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 339.54166666666691
+  }, 
+  {
+    "Room_Name": "Nurse Station", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "32", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 548.34027777777646
+  }, 
+  {
+    "Room_Name": "Corridor", 
+    "Fire_Sprinkler": "Yes", 
+    "Smoke_Detector": 0, 
+    "Room_Number": "33", 
+    "Building_Occupancy": "Medical Building", 
+    "Room_Area": 2883.6666666666315
+  }
+]

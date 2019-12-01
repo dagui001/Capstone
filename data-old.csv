@@ -1,0 +1,67 @@
+Fire_Sprinkler,Building_Occupancy,Room_Name,Room_Area,Smoke_Detector
+No,  Apartment Building,  Hall,200,1
+No,  Medical Building,  Generator Room,200,1
+No,  Apartment Building,  Gym,300,1
+Yes,  Medical Building,  Office,600,0
+Yes,  Apartment Building,  Fire Pump Room,200,0
+Yes,  Apartment Building,  Hall,300,1
+No,  Medical Building,  Generator Room,200,1
+No,  Apartment Building,  Gym,300,1
+Yes,  Medical Building,  Office,600,0
+Yes,  Apartment Building,  Fire Pump Room,200,0
+No,  Apartment Building,  Elevator Lobby,100,1
+No,  Medical Building,  Nurse Station,100,1
+Yes,  Medical Building,  Generator Room,300,0
+No,  Medical Building,  Electrical Room,100,1
+Yes,  Medical Building,  Generator Room,100,0
+Yes,  Apartment Building,  Storage,300,0
+No,  Medical Building,  Nurse Station,200,1
+No,  Medical Building,  Operating Room,100,1
+Yes,  Apartment Building,  Gym,100,0
+Yes,  Medical Building,  Patient Bedroom,300,1
+No,  Apartment Building,  Kitchen,300,0
+Yes,  Office Building, Office,100,0
+No,  Medical Building,  Lobby,100,1
+No,  Medical Building,  Control Room,200,1
+No,  Office Building,  Office,900,1
+No,  Apartment Building,  Closet,100,0
+No,  Medical Building,  Patient Bedroom,600,1
+Yes,  Office Building,  Electrical Room,300,0
+No,  Apartment Building,  Gym,300,0
+Yes,  Medical Building,  Elevator Lobby,300,1
+Yes,  Office Building,  Office,100,0
+Yes,  Apartment Building,  Closet,100,0
+Yes,  Apartment Building,  Kitchen,100,0
+Yes,  Medical Building,  Garage,100,0
+Yes,  Medical Building,  Control Room,200,1
+Yes,  Medical Building,  Nuc Med Room,100,0
+Yes,  Medical Building,  Garage,300,0
+Yes,  Office Building,  Office,100,0
+No,  Medical Building,  Spect CT Room,100,1
+No,  Office Building,  Office,1000,1
+Yes,  Medical Building,  Storage,300,0
+Yes,  Office Building,  Office,1000,0
+No,  Apartment Building,  Corridor,1000,1
+Yes,  Apartment Building,  Storage,200,0
+No,  Medical Building,  Mechanical Room,100,1
+No,  Office Building,  Breakroom,100,1
+Yes,  Apartment Building,  Closet,100,0
+No,  Medical Building,  Control Room,200,1
+Yes,  Medical Building,  Gym,300,0
+Yes,  Medical Building,  Nurse Station,300,0
+Yes,  Medical Building,  Lobby,100,1
+Yes,  Office Building,  Gym,300,0
+No,  Apartment Building,  Mechanical Room,100,1
+No,  Medical Building,  Pre/Post Op,200,1
+No,  Apartment Building,  Breakfast,100,0
+No,  Apartment Building,  Closet,300,0
+No,  Apartment Building,  Fire Pump Room,100,1
+Yes,  Medical Building,  Corridor,1000,1
+Yes,  Medical Building,  Fire Pump Room,300,0
+No,  Medical Building,  Garage,100,0
+Yes,  Medical Building,  Garage,300,0
+No,  Apartment Building,  Guest Bedroom,200,1
+Yes,  Office Building,  Electrical Room,100,0
+No,  Medical Building,  Generator Room,300,1
+Yes,  Apartment Building,  Kitchen,200,0
+Yes,  Apartment Building,Family Room,200,0
