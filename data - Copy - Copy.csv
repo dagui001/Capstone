@@ -1,0 +1,331 @@
+Fire_Sprinkler,Building_Occupancy,Room_Name,Smoke_Detector
+Yes,  Office Building,  Reception,Yes
+No,  Apartment Building,  Playroom,No
+Yes,  Office Building,  Conference,No
+Yes,  Medical Building,  Exam Room,No
+Yes,  Office Building,  Reception,Yes
+Yes,  Office Building,  Conference,No
+No,  Office Building,  Elevator Lobby,Yes
+No,  Office Building,  Breakroom,Yes
+Yes,  Office Building,  Breakroom,No
+Yes,  Office Building,  Bathroom,No
+No,  Office Building,  Corridor,Yes
+Yes,  Apartment Building,  Bathroom,No
+Yes,  Medical Building,  Patient Bedroom,Yes
+Yes,  Office Building,  Storage,No
+No,  Medical Building,  Electrical Room,Yes
+No,  Office Building,  Corridor,Yes
+Yes,  Office Building,  Office,No
+Yes,  Apartment Building,  Lobby,Yes
+No,  Office Building,  Corridor,Yes
+Yes,  Apartment Building,  Hall,Yes
+Yes,  Apartment Building,  Breakfast,No
+No,  Apartment Building,  Master Bedroom,Yes
+Yes,  Office Building,  Storage,No
+No,  Medical Building,  Procedure Room,Yes
+No,  Office Building,  Mechanical Room,Yes
+No,  Apartment Building,  Fire Pump Room,Yes
+No,  Medical Building,  Procedure Room,Yes
+No,  Apartment Building,  Breakfast,No
+Yes,  Apartment Building,  Mechanical Room,No
+Yes,  Apartment Building,  Bedroom,Yes
+Yes,  Apartment Building,  Bedroom,Yes
+Yes,  Apartment Building,  Generator Room,No
+Yes,  Apartment Building,  Family Room,No
+Yes,  Apartment Building,  Fire Pump Room,No
+Yes,  Office Building,  Corridor,Yes
+Yes,  Apartment Building,  Den,No
+Yes,  Apartment Building,  Storage,No
+No,  Apartment Building,  Den,No
+No,  Office Building,  Electrical Room,Yes
+Yes,  Medical Building,  Break Room,No
+Yes,  Medical Building,  MRI Room,No
+No,  Apartment Building,  Office,Yes
+Yes,  Office Building,  Elevator Lobby,Yes
+Yes,  Medical Building,  Mechanical Room,No
+No,  Apartment Building,  Elevator Lobby,Yes
+No,  Office Building,  Elevator Lobby,Yes
+No,  Office Building,  Office,Yes
+No,  Apartment Building,  Mechanical Room,Yes
+No,  Apartment Building,  Hall,Yes
+Yes,  Apartment Building,  Living Room,Yes
+No,  Office Building,  Reception,Yes
+No,  Office Building,  Reception,Yes
+No,  Office Building,  Garage,No
+Yes,  Apartment Building,  Foyer,No
+No,  Medical Building,  Bathroom,No
+No,  Medical Building,  Control Room,Yes
+No,  Medical Building,  Conference Room,No
+Yes,  Medical Building,  Gym,No
+Yes,  Apartment Building,  Master Bedroom,Yes
+Yes,  Apartment Building,  Guest Bedroom,Yes
+No,  Office Building,  Elevator Lobby,Yes
+No,  Apartment Building,  Foyer,No
+No,  Office Building,  Storage,Yes
+No,  Apartment Building,  Mechanical Room,Yes
+Yes,  Apartment Building,  Office,No
+No,  Office Building,  Mechanical Room,Yes
+Yes,  Medical Building,  Break Room,No
+Yes,  Office Building,  Electrical Room,No
+No,  Apartment Building,  Den,No
+No,  Office Building,  Conference,Yes
+No,  Office Building,  Mechanical Room,Yes
+No,  Office Building,  Bathroom,No
+No,  Medical Building,  Elevator Lobby,Yes
+Yes,  Apartment Building,  Master Bedroom,Yes
+No,  Apartment Building,  Electrical Room,Yes
+Yes,  Apartment Building,  Bathroom,No
+Yes,  Apartment Building,  Playroom,No
+Yes,  Medical Building,  Garage,No
+Yes,  Office Building,  Elevator Lobby,Yes
+No,  Medical Building,  MRI Room,Yes
+No,  Apartment Building,  Master Bedroom,Yes
+No,  Apartment Building,  Elevator Lobby,Yes
+No,  Medical Building,  Garage,No
+Yes,  Apartment Building,  Elevator Lobby,Yes
+No,  Apartment Building,  Bathroom,No
+No,  Office Building,  Mechanical Room,Yes
+Yes,  Medical Building,  Corridor,Yes
+Yes,  Medical Building,  Garage,No
+No,  Medical Building,  Electrical Room,Yes
+Yes,  Medical Building,  Pre/Post Op,Yes
+Yes,  Apartment Building,  Garage,No
+No,  Office Building,  Corridor,Yes
+No,  Office Building,  Elevator Lobby,Yes
+No,  Medical Building,  Exam Room,Yes
+No,  Apartment Building,  Guest Bedroom,Yes
+Yes,  Medical Building,  Procedure Room,No
+Yes,  Apartment Building,  Fire Pump Room,No
+No,  Apartment Building,  Generator Room,Yes
+No,  Office Building,  Garage,No
+Yes,  Apartment Building,  Bedroom,Yes
+Yes,  Medical Building,  Patient Bedroom,Yes
+No,  Apartment Building,  Foyer,No
+Yes,  Apartment Building,  Gym,No
+No,  Office Building,  Reception,No
+No,  Apartment Building,  Playroom,No
+No,  Apartment Building,  Playroom,No
+Yes,  Office Building,  Storage,No
+Yes,  Medical Building,  Break Room,No
+No,  Apartment Building,  Electrical Room,Yes
+No,  Office Building,  Storage,No
+No,  Apartment Building,  Family Room,No
+Yes,  Office Building,  Mechanical Room,No
+No,  Medical Building,  Fire Pump Room,Yes
+Yes,  Apartment Building,  Bathroom,No
+No,  Apartment Building,  Lobby,Yes
+Yes,  Apartment Building,  Closet,No
+Yes,  Medical Building,  Storage,No
+Yes,  Medical Building,  Operating Room,No
+No,  Apartment Building,  Living Room,Yes
+No,  Apartment Building,  Hall,Yes
+No,  Medical Building,  Fire Pump Room,Yes
+Yes,  Medical Building,  Garage,No
+Yes,  Apartment Building,  Master Bedroom,Yes
+Yes,  Apartment Building,  Bedroom,Yes
+No,  Medical Building,  Patient Bedroom,Yes
+Yes,  Apartment Building,  Office,No
+Yes,  Office Building,  Reception,No
+No,  Medical Building,  Exam Room,Yes
+Yes,  Office Building,  Corridor,Yes
+Yes,  Office Building,  Elevator Lobby,Yes
+Yes,  Medical Building,  Conference Room,No
+No,  Medical Building,  Reception,Yes
+No,  Office Building,  Storage,Yes
+No,  Medical Building,  Elevator Lobby,Yes
+Yes,  Office Building,  Corridor,Yes
+No,  Office Building,  Gym,Yes
+No,  Medical Building,  Conference Room,Yes
+No,  Apartment Building,  Office,Yes
+Yes,  Medical Building,  Control Room,Yes
+Yes,  Medical Building,  Storage,No
+No,  Medical Building,  Conference Room,Yes
+No,  Apartment Building,  Electrical Room,Yes
+No,  Apartment Building,  Office,Yes
+No,  Medical Building,  Fire Pump Room,Yes
+Yes,  Office Building,  Mechanical Room,No
+No,  Medical Building,  Fire Pump Room,Yes
+No,  Office Building,  Conference,Yes
+No,  Office Building,  Breakroom,Yes
+No,  Apartment Building,  Master Bedroom,Yes
+No,  Office Building,  Electrical Room,Yes
+Yes,  Office Building,  Elevator Lobby,Yes
+Yes,  Office Building,  Electrical Room,No
+No,  Office Building,  Conference,Yes
+No,  Apartment Building,  Lobby,Yes
+No,  Office Building,  Lobby,Yes
+No,  Apartment Building,  Mechanical Room,Yes
+Yes,  Office Building,  Breakroom,No
+Yes,  Apartment Building,  Mechanical Room,No
+Yes,  Office Building,  Storage,No
+Yes,  Medical Building,  Mechanical Room,No
+Yes,  Office Building,  Breakroom,No
+Yes,  Medical Building,  Locker Room,No
+Yes,  Apartment Building,  Guest Bedroom,Yes
+Yes,  Medical Building,  Bathroom,No
+Yes,  Apartment Building,  Generator Room,No
+No,  Office Building,  Gym,Yes
+No,  Apartment Building,  Playroom,No
+Yes,  Office Building,  Breakroom,No
+Yes,  Apartment Building,  Bathroom,No
+Yes,  Apartment Building,  Storage,No
+Yes,  Office Building,  Electrical Room,No
+Yes,  Medical Building,  Corridor,Yes
+Yes,  Apartment Building,  Generator Room,No
+Yes,  Medical Building,  Patient Bedroom,Yes
+Yes,  Office Building,  Storage,No
+Yes,  Apartment Building,  Corridor,Yes
+Yes,  Office Building,  Bathroom,No
+No,  Office Building,  Conference,Yes
+No,  Medical Building,  Pre/Post Op,Yes
+No,  Office Building,  Lobby,Yes
+No,  Apartment Building,  Playroom,No
+Yes,  Medical Building,  MRI Room,No
+No,  Medical Building,  Exam Room,Yes
+Yes,  Office Building,  Lobby,Yes
+Yes,  Medical Building,  Office,No
+No,  Medical Building,  Fire Pump Room,Yes
+No,  Medical Building,  Locker Room,No
+Yes,  Apartment Building,  Office,No
+Yes,  Office Building,  Breakroom,No
+No,  Medical Building,  Elevator Lobby,Yes
+Yes,  Medical Building,  Exam Room,No
+Yes,  Apartment Building,  Breakfast,No
+No,  Medical Building,  Locker Room,No
+Yes,  Office Building,  Breakroom,No
+Yes,  Apartment Building,  Corridor,Yes
+Yes,  Office Building,  Bathroom,No
+Yes,  Apartment Building,  Bedroom,Yes
+Yes,  Office Building,  Breakroom,No
+Yes,  Office Building,  Lobby,Yes
+Yes,  Medical Building,  Spect CT Room,No
+Yes,  Medical Building,  Bathroom,No
+Yes,  Medical Building,  Locker Room,No
+No,  Office Building,  Office,Yes
+Yes,  Medical Building,  Mechanical Room,No
+Yes,  Medical Building,  Conference Room,No
+No,  Apartment Building,  Guest Bedroom,Yes
+Yes,  Medical Building,  Break Room,No
+Yes,  Office Building,  Bathroom,No
+No,  Medical Building,  Operating Room,Yes
+Yes,  Apartment Building,  Fire Pump Room,No
+Yes,  Apartment Building,  Closet,No
+No,  Apartment Building,  Master Bedroom,Yes
+No,  Apartment Building,  Mechanical Room,Yes
+Yes,  Apartment Building,  Garage,No
+Yes,  Medical Building,  Pre/Post Op,Yes
+No,  Apartment Building,  Elevator Lobby,Yes
+No,  Apartment Building,  Playroom,No
+No,  Medical Building,  Gym,Yes
+Yes,  Office Building,  Office,No
+Yes,  Office Building,  Conference,No
+No,  Office Building,  Breakroom,Yes
+No,  Apartment Building,  Foyer,No
+Yes,  Medical Building,  MRI Room,No
+Yes,  Medical Building,  Locker Room,No
+No,  Apartment Building,  Family Room,No
+No,  Medical Building,  Conference Room,Yes
+Yes,  Apartment Building,  Living Room,Yes
+Yes,  Office Building,  Office,No
+No,  Office Building,  Garage,No
+No,  Medical Building,  Lobby,Yes
+No,  Office Building,  Bathroom,No
+No,  Office Building,  Gym,Yes
+No,  Office Building,  Garage,No
+No,  Office Building,  Corridor,Yes
+No,  Apartment Building,  Closet,No
+No,  Apartment Building,  Lobby,Yes
+Yes,  Office Building,  Office,No
+Yes,  Office Building,  Gym,No
+Yes,  Medical Building,  Procedure Room,No
+No,  Apartment Building,  Den,No
+Yes,  Office Building,  Mechanical Room,No
+No,  Medical Building,  Storage,Yes
+No,  Medical Building,  MRI Room,No
+No,  Office Building,  Office,Yes
+No,  Apartment Building,  Breakfast,No
+No,  Medical Building,  Corridor,Yes
+Yes,  Office Building,  Mechanical Room,No
+No,  Medical Building,  Gym,Yes
+Yes,  Medical Building,  Lobby,Yes
+Yes,  Office Building,  Gym,No
+Yes,  Apartment Building,  Gym,No
+Yes,  Apartment Building,  Den,No
+No,  Medical Building,  Conference Room,Yes
+Yes,  Medical Building,  Elevator Lobby,Yes
+No,  Office Building,  Garage,No
+No,  Office Building,  Mechanical Room,Yes
+No,  Office Building,  Reception,Yes
+Yes,  Medical Building,  Storage,No
+Yes,  Office Building,  Conference,No
+Yes,  Apartment Building,  Foyer,No
+No,  Office Building,  Mechanical Room,Yes
+Yes,  Medical Building,  Operating Room,No
+No,  Apartment Building,  Bedroom,Yes
+Yes,  Office Building,  Mechanical Room,No
+Yes,  Apartment Building,  Hall,Yes
+Yes,  Apartment Building,  Master Bedroom,Yes
+Yes,  Apartment Building,  Breakfast,No
+No,  Office Building,  Storage,Yes
+No,  Office Building,  Gym,Yes
+Yes,  Office Building,  Elevator Lobby,Yes
+No,  Apartment Building,  Bedroom,Yes
+No,  Medical Building,  Conference Room,Yes
+No,  Medical Building,  Gym,Yes
+No,  Medical Building,  Pre/Post Op,Yes
+No,  Office Building,  Corridor,Yes
+No,  Medical Building,  Mechanical Room,Yes
+Yes,  Medical Building,  Nurse Station,No
+No,  Office Building,  Office,Yes
+Yes,  Medical Building,  MRI Room,No
+Yes,  Office Building,  Bathroom,No
+Yes,  Medical Building,  Gym,No
+Yes,  Apartment Building,  Breakfast,No
+No,  Office Building,  Electrical Room,Yes
+Yes,  Office Building,  Elevator Lobby,Yes
+No,  Office Building,  Office,Yes
+Yes,  Office Building,  Corridor,Yes
+Yes,  Apartment Building,  Foyer,No
+No,  Medical Building,  Bathroom,No
+No,  Apartment Building,  Playroom,No
+No,  Medical Building,  Nurse Station,Yes
+Yes,  Office Building,  Bathroom,No
+Yes,  Medical Building,  Electrical Room,No
+No,  Apartment Building,  Bedroom,Yes
+No,  Medical Building,  Procedure Room,Yes
+Yes,  Medical Building,  Office,No
+No,  Apartment Building,  Generator Room,Yes
+Yes,  Apartment Building,  Guest Bedroom,Yes
+Yes,  Office Building,  Lobby,Yes
+Yes,  Medical Building,  Garage,No
+Yes,  Medical Building,  Control Room,Yes
+Yes,  Medical Building,  Nuc Med Room,No
+Yes,  Medical Building,  Garage,No
+Yes,  Office Building,  Office,No
+No,  Medical Building,  Spect CT Room,Yes
+No,  Office Building,  Office,Yes
+Yes,  Medical Building,  Storage,No
+Yes,  Office Building,  Office,No
+No,  Apartment Building,  Corridor,Yes
+Yes,  Apartment Building,  Storage,No
+No,  Medical Building,  Mechanical Room,Yes
+No,  Office Building,  Breakroom,Yes
+Yes,  Apartment Building,  Closet,No
+No,  Medical Building,  Control Room,Yes
+Yes,  Medical Building,  Gym,No
+Yes,  Medical Building,  Nurse Station,No
+Yes,  Medical Building,  Lobby,Yes
+Yes,  Office Building,  Gym,No
+No,  Apartment Building,  Mechanical Room,Yes
+No,  Medical Building,  Pre/Post Op,Yes
+No,  Apartment Building,  Breakfast,No
+No,  Apartment Building,  Closet,No
+No,  Apartment Building,  Fire Pump Room,Yes
+Yes,  Medical Building,  Corridor,Yes
+Yes,  Medical Building,  Fire Pump Room,No
+No,  Medical Building,  Garage,No
+Yes,  Medical Building,  Garage,No
+No,  Apartment Building,  Guest Bedroom,Yes
+Yes,  Office Building,  Electrical Room,No
+No,  Medical Building,  Generator Room,Yes
+Yes,  Apartment Building,  Kitchen,No

@@ -1,0 +1,331 @@
+Fire_Sprinkler,Building_Occupancy,Room_Area,Room_Name,Smoke_Detector
+Yes,  Office Building,300,  Reception,1
+No,  Apartment Building,300,  Playroom,0
+Yes,  Office Building,300,  Conference,0
+Yes,  Medical Building,100,  Exam Room,0
+Yes,  Office Building,100,  Reception,1
+Yes,  Office Building,100,  Conference,0
+No,  Office Building,200,  Elevator Lobby,1
+No,  Office Building,300,  Breakroom,1
+Yes,  Office Building,100,  Breakroom,0
+Yes,  Office Building,100,  Bathroom,0
+No,  Office Building,200,  Corridor,1
+Yes,  Apartment Building,100,  Bathroom,0
+Yes,  Medical Building,300,  Patient Bedroom,1
+Yes,  Office Building,300,  Storage,0
+No,  Medical Building,300,  Electrical Room,1
+No,  Office Building,100,  Corridor,1
+Yes,  Office Building,100,  Office,0
+Yes,  Apartment Building,200,  Lobby,1
+No,  Office Building,1000,  Corridor,1
+Yes,  Apartment Building,100,  Hall,1
+Yes,  Apartment Building,200,  Breakfast,0
+No,  Apartment Building,100,  Master Bedroom,1
+Yes,  Office Building,300,  Storage,0
+No,  Medical Building,100,  Procedure Room,1
+No,  Office Building,300,  Mechanical Room,1
+No,  Apartment Building,300,  Fire Pump Room,1
+No,  Medical Building,200,  Procedure Room,1
+No,  Apartment Building,300,  Breakfast,0
+Yes,  Apartment Building,300,  Mechanical Room,0
+Yes,  Apartment Building,300,  Bedroom,1
+Yes,  Apartment Building,200,  Bedroom,1
+Yes,  Apartment Building,300,  Generator Room,0
+Yes,  Apartment Building,200,  Family Room,0
+Yes,  Apartment Building,100,  Fire Pump Room,0
+Yes,  Office Building,800,  Corridor,1
+Yes,  Apartment Building,200,  Den,0
+Yes,  Apartment Building,100,  Storage,0
+No,  Apartment Building,100,  Den,0
+No,  Office Building,100,  Electrical Room,1
+Yes,  Medical Building,100,  Break Room,0
+Yes,  Medical Building,300,  MRI Room,0
+No,  Apartment Building,400,  Office,1
+Yes,  Office Building,200,  Elevator Lobby,1
+Yes,  Medical Building,300,  Mechanical Room,0
+No,  Apartment Building,100,  Elevator Lobby,1
+No,  Office Building,200,  Elevator Lobby,1
+No,  Office Building,600,  Office,1
+No,  Apartment Building,100,  Mechanical Room,1
+No,  Apartment Building,100,  Hall,1
+Yes,  Apartment Building,300,  Living Room,1
+No,  Office Building,200,  Reception,1
+No,  Office Building,100,  Reception,1
+No,  Office Building,300,  Garage,0
+Yes,  Apartment Building,200,  Foyer,0
+No,  Medical Building,100,  Bathroom,0
+No,  Medical Building,300,  Control Room,1
+No,  Medical Building,200,  Conference Room,0
+Yes,  Medical Building,200,  Gym,0
+Yes,  Apartment Building,300,  Master Bedroom,1
+Yes,  Apartment Building,100,  Guest Bedroom,1
+No,  Office Building,300,  Elevator Lobby,1
+No,  Apartment Building,200,  Foyer,0
+No,  Office Building,300,  Storage,1
+No,  Apartment Building,300,  Mechanical Room,1
+Yes,  Apartment Building,300,  Office,0
+No,  Office Building,200,  Mechanical Room,1
+Yes,  Medical Building,100,  Break Room,0
+Yes,  Office Building,300,  Electrical Room,0
+No,  Apartment Building,200,  Den,0
+No,  Office Building,300,  Conference,1
+No,  Office Building,300,  Mechanical Room,1
+No,  Office Building,300,  Bathroom,0
+No,  Medical Building,200,  Elevator Lobby,1
+Yes,  Apartment Building,100,  Master Bedroom,1
+No,  Apartment Building,300,  Electrical Room,1
+Yes,  Apartment Building,200,  Bathroom,0
+Yes,  Apartment Building,100,  Playroom,0
+Yes,  Medical Building,100,  Garage,0
+Yes,  Office Building,100,  Elevator Lobby,1
+No,  Medical Building,100,  MRI Room,1
+No,  Apartment Building,300,  Master Bedroom,1
+No,  Apartment Building,100,  Elevator Lobby,1
+No,  Medical Building,100,  Garage,0
+Yes,  Apartment Building,200,  Elevator Lobby,1
+No,  Apartment Building,100,  Bathroom,0
+No,  Office Building,200,  Mechanical Room,1
+Yes,  Medical Building,1000,  Corridor,1
+Yes,  Medical Building,300,  Garage,0
+No,  Medical Building,200,  Electrical Room,1
+Yes,  Medical Building,300,  Pre/Post Op,1
+Yes,  Apartment Building,200,  Garage,0
+No,  Office Building,500,  Corridor,1
+No,  Office Building,100,  Elevator Lobby,1
+No,  Medical Building,100,  Exam Room,1
+No,  Apartment Building,100,  Guest Bedroom,1
+Yes,  Medical Building,200,  Procedure Room,0
+Yes,  Apartment Building,200,  Fire Pump Room,0
+No,  Apartment Building,300,  Generator Room,1
+No,  Office Building,200,  Garage,0
+Yes,  Apartment Building,300,  Bedroom,1
+Yes,  Medical Building,100,  Patient Bedroom,1
+No,  Apartment Building,300,  Foyer,0
+Yes,  Apartment Building,200,  Gym,0
+No,  Office Building,100,  Reception,0
+No,  Apartment Building,200,  Playroom,0
+No,  Apartment Building,200,  Playroom,0
+Yes,  Office Building,200,  Storage,0
+Yes,  Medical Building,200,  Break Room,0
+No,  Apartment Building,100,  Electrical Room,1
+No,  Office Building,200,  Storage,0
+No,  Apartment Building,300,  Family Room,0
+Yes,  Office Building,200,  Mechanical Room,0
+No,  Medical Building,300,  Fire Pump Room,1
+Yes,  Apartment Building,300,  Bathroom,0
+No,  Apartment Building,300,  Lobby,1
+Yes,  Apartment Building,200,  Closet,0
+Yes,  Medical Building,100,  Storage,0
+Yes,  Medical Building,300,  Operating Room,0
+No,  Apartment Building,100,  Living Room,1
+No,  Apartment Building,300,  Hall,1
+No,  Medical Building,100,  Fire Pump Room,1
+Yes,  Medical Building,100,  Garage,0
+Yes,  Apartment Building,300,  Master Bedroom,1
+Yes,  Apartment Building,100,  Bedroom,1
+No,  Medical Building,100,  Patient Bedroom,1
+Yes,  Apartment Building,900,  Office,0
+Yes,  Office Building,100,  Reception,0
+No,  Medical Building,200,  Exam Room,1
+Yes,  Office Building,600,  Corridor,1
+Yes,  Office Building,300,  Elevator Lobby,1
+Yes,  Medical Building,300,  Conference Room,0
+No,  Medical Building,200,  Reception,1
+No,  Office Building,200,  Storage,1
+No,  Medical Building,100,  Elevator Lobby,1
+Yes,  Office Building,800,  Corridor,1
+No,  Office Building,100,  Gym,1
+No,  Medical Building,300,  Conference Room,1
+No,  Apartment Building,600,  Office,1
+Yes,  Medical Building,100,  Control Room,1
+Yes,  Medical Building,200,  Storage,0
+No,  Medical Building,200,  Conference Room,1
+No,  Apartment Building,100,  Electrical Room,1
+No,  Apartment Building,700,  Office,1
+No,  Medical Building,100,  Fire Pump Room,1
+Yes,  Office Building,200,  Mechanical Room,0
+No,  Medical Building,200,  Fire Pump Room,1
+No,  Office Building,200,  Conference,1
+No,  Office Building,200,  Breakroom,1
+No,  Apartment Building,100,  Master Bedroom,1
+No,  Office Building,200,  Electrical Room,1
+Yes,  Office Building,100,  Elevator Lobby,1
+Yes,  Office Building,100,  Electrical Room,0
+No,  Office Building,100,  Conference,1
+No,  Apartment Building,100,  Lobby,1
+No,  Office Building,100,  Lobby,1
+No,  Apartment Building,200,  Mechanical Room,1
+Yes,  Office Building,300,  Breakroom,0
+Yes,  Apartment Building,300,  Mechanical Room,0
+Yes,  Office Building,100,  Storage,0
+Yes,  Medical Building,300,  Mechanical Room,0
+Yes,  Office Building,100,  Breakroom,0
+Yes,  Medical Building,200,  Locker Room,0
+Yes,  Apartment Building,200,  Guest Bedroom,1
+Yes,  Medical Building,200,  Bathroom,0
+Yes,  Apartment Building,300,  Generator Room,0
+No,  Office Building,300,  Gym,1
+No,  Apartment Building,200,  Playroom,0
+Yes,  Office Building,200,  Breakroom,0
+Yes,  Apartment Building,300,  Bathroom,0
+Yes,  Apartment Building,100,  Storage,0
+Yes,  Office Building,100,  Electrical Room,0
+Yes,  Medical Building,800,  Corridor,1
+Yes,  Apartment Building,200,  Generator Room,0
+Yes,  Medical Building,100,  Patient Bedroom,1
+Yes,  Office Building,100,  Storage,0
+Yes,  Apartment Building,800,  Corridor,1
+Yes,  Office Building,200,  Bathroom,0
+No,  Office Building,200,  Conference,1
+No,  Medical Building,300,  Pre/Post Op,1
+No,  Office Building,300,  Lobby,1
+No,  Apartment Building,100,  Playroom,0
+Yes,  Medical Building,300,  MRI Room,0
+No,  Medical Building,200,  Exam Room,1
+Yes,  Office Building,200,  Lobby,1
+Yes,  Medical Building,500,  Office,0
+No,  Medical Building,300,  Fire Pump Room,1
+No,  Medical Building,100,  Locker Room,0
+Yes,  Apartment Building,100,  Office,0
+Yes,  Office Building,200,  Breakroom,0
+No,  Medical Building,100,  Elevator Lobby,1
+Yes,  Medical Building,300,  Exam Room,0
+Yes,  Apartment Building,200,  Breakfast,0
+No,  Medical Building,100,  Locker Room,0
+Yes,  Office Building,100,  Breakroom,0
+Yes,  Apartment Building,900,  Corridor,1
+Yes,  Office Building,100,  Bathroom,0
+Yes,  Apartment Building,100,  Bedroom,1
+Yes,  Office Building,300,  Breakroom,0
+Yes,  Office Building,100,  Lobby,1
+Yes,  Medical Building,100,  Spect CT Room,0
+Yes,  Medical Building,200,  Bathroom,0
+Yes,  Medical Building,300,  Locker Room,0
+No,  Office Building,800,  Office,1
+Yes,  Medical Building,300,  Mechanical Room,0
+Yes,  Medical Building,300,  Conference Room,0
+No,  Apartment Building,200,  Guest Bedroom,1
+Yes,  Medical Building,300,  Break Room,0
+Yes,  Office Building,300,  Bathroom,0
+No,  Medical Building,100,  Operating Room,1
+Yes,  Apartment Building,300,  Fire Pump Room,0
+Yes,  Apartment Building,300,  Closet,0
+No,  Apartment Building,300,  Master Bedroom,1
+No,  Apartment Building,200,  Mechanical Room,1
+Yes,  Apartment Building,100,  Garage,0
+Yes,  Medical Building,300,  Pre/Post Op,1
+No,  Apartment Building,100,  Elevator Lobby,1
+No,  Apartment Building,100,  Playroom,0
+No,  Medical Building,300,  Gym,1
+Yes,  Office Building,500,  Office,0
+Yes,  Office Building,200,  Conference,0
+No,  Office Building,100,  Breakroom,1
+No,  Apartment Building,300,  Foyer,0
+Yes,  Medical Building,200,  MRI Room,0
+Yes,  Medical Building,100,  Locker Room,0
+No,  Apartment Building,100,  Family Room,0
+No,  Medical Building,300,  Conference Room,1
+Yes,  Apartment Building,100,  Living Room,1
+Yes,  Office Building,200,  Office,0
+No,  Office Building,100,  Garage,0
+No,  Medical Building,200,  Lobby,1
+No,  Office Building,200,  Bathroom,0
+No,  Office Building,200,  Gym,1
+No,  Office Building,300,  Garage,0
+No,  Office Building,1000,  Corridor,1
+No,  Apartment Building,200,  Closet,0
+No,  Apartment Building,100,  Lobby,1
+Yes,  Office Building,700,  Office,0
+Yes,  Office Building,300,  Gym,0
+Yes,  Medical Building,100,  Procedure Room,0
+No,  Apartment Building,300,  Den,0
+Yes,  Office Building,100,  Mechanical Room,0
+No,  Medical Building,100,  Storage,1
+No,  Medical Building,200,  MRI Room,0
+No,  Office Building,900,  Office,1
+No,  Apartment Building,100,  Breakfast,0
+No,  Medical Building,600,  Corridor,1
+Yes,  Office Building,300,  Mechanical Room,0
+No,  Medical Building,300,  Gym,1
+Yes,  Medical Building,300,  Lobby,1
+Yes,  Office Building,100,  Gym,0
+Yes,  Apartment Building,100,  Gym,0
+Yes,  Apartment Building,100,  Den,0
+No,  Medical Building,200,  Conference Room,1
+Yes,  Medical Building,100,  Elevator Lobby,1
+No,  Office Building,200,  Garage,0
+No,  Office Building,300,  Mechanical Room,1
+No,  Office Building,100,  Reception,1
+Yes,  Medical Building,200,  Storage,0
+Yes,  Office Building,300,  Conference,0
+Yes,  Apartment Building,300,  Foyer,0
+No,  Office Building,100,  Mechanical Room,1
+Yes,  Medical Building,200,  Operating Room,0
+No,  Apartment Building,100,  Bedroom,1
+Yes,  Office Building,100,  Mechanical Room,0
+Yes,  Apartment Building,300,  Hall,1
+Yes,  Apartment Building,100,  Master Bedroom,1
+Yes,  Apartment Building,200,  Breakfast,0
+No,  Office Building,200,  Storage,1
+No,  Office Building,300,  Gym,1
+Yes,  Office Building,100,  Elevator Lobby,1
+No,  Apartment Building,200,  Bedroom,1
+No,  Medical Building,300,  Conference Room,1
+No,  Medical Building,300,  Gym,1
+No,  Medical Building,100,  Pre/Post Op,1
+No,  Office Building,300,  Corridor,1
+No,  Medical Building,100,  Mechanical Room,1
+Yes,  Medical Building,200,  Nurse Station,0
+No,  Office Building,500,  Office,1
+Yes,  Medical Building,300,  MRI Room,0
+Yes,  Office Building,300,  Bathroom,0
+Yes,  Medical Building,200,  Gym,0
+Yes,  Apartment Building,300,  Breakfast,0
+No,  Office Building,100,  Electrical Room,1
+Yes,  Office Building,300,  Elevator Lobby,1
+No,  Office Building,600,  Office,1
+Yes,  Office Building,400,  Corridor,1
+Yes,  Apartment Building,100,  Foyer,0
+No,  Medical Building,300,  Bathroom,0
+No,  Apartment Building,200,  Playroom,0
+No,  Medical Building,200,  Nurse Station,1
+Yes,  Office Building,100,  Bathroom,0
+Yes,  Medical Building,300,  Electrical Room,0
+No,  Apartment Building,100,  Bedroom,1
+No,  Medical Building,100,  Procedure Room,1
+Yes,  Medical Building,700,  Office,0
+No,  Apartment Building,200,  Generator Room,1
+Yes,  Apartment Building,300,  Guest Bedroom,1
+Yes,  Office Building,300,  Lobby,1
+Yes,  Medical Building,100,  Garage,0
+Yes,  Medical Building,200,  Control Room,1
+Yes,  Medical Building,100,  Nuc Med Room,0
+Yes,  Medical Building,300,  Garage,0
+Yes,  Office Building,100,  Office,0
+No,  Medical Building,100,  Spect CT Room,1
+No,  Office Building,1000,  Office,1
+Yes,  Medical Building,300,  Storage,0
+Yes,  Office Building,1000,  Office,0
+No,  Apartment Building,1000,  Corridor,1
+Yes,  Apartment Building,200,  Storage,0
+No,  Medical Building,100,  Mechanical Room,1
+No,  Office Building,100,  Breakroom,1
+Yes,  Apartment Building,100,  Closet,0
+No,  Medical Building,200,  Control Room,1
+Yes,  Medical Building,300,  Gym,0
+Yes,  Medical Building,300,  Nurse Station,0
+Yes,  Medical Building,100,  Lobby,1
+Yes,  Office Building,300,  Gym,0
+No,  Apartment Building,100,  Mechanical Room,1
+No,  Medical Building,200,  Pre/Post Op,1
+No,  Apartment Building,100,  Breakfast,0
+No,  Apartment Building,300,  Closet,0
+No,  Apartment Building,100,  Fire Pump Room,1
+Yes,  Medical Building,1000,  Corridor,1
+Yes,  Medical Building,300,  Fire Pump Room,0
+No,  Medical Building,100,  Garage,0
+Yes,  Medical Building,300,  Garage,0
+No,  Apartment Building,200,  Guest Bedroom,1
+Yes,  Office Building,100,  Electrical Room,0
+No,  Medical Building,300,  Generator Room,1
+Yes,  Apartment Building,200,  Kitchen,0
